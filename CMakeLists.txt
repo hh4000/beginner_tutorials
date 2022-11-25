@@ -52,7 +52,7 @@ add_message_files(
   FILES
   Num.msg
   
-# )
+)
 
 ## Generate services in the 'srv' folder
 add_service_files(
